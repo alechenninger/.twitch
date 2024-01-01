@@ -4,6 +4,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: end;
+  font-size: 1rem;
 }
 
 .messages_container {
@@ -23,7 +24,7 @@ body {
 }
 
 .messages_container > .message {
-  background-color: black;
+  background-color: rgba(0, 0, 0, 0.75);
   border-radius: 1rem;
   padding: 0.75rem;
   box-shadow: 0px 0px 5px #0300AA;
