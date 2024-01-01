@@ -24,9 +24,8 @@ body {
 
 .messages_container > .message {
   background-color: rgba(0, 0, 0, 0.75);
-  border-radius: 1rem;
   padding: 0.75rem;
-  box-shadow: 0px 0px 5px #0300AA;
+  box-shadow: 5px 5px 0px #0300AA;
 }
 
 .message_viewer-name {
