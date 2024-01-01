@@ -4,7 +4,6 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: end;
-  font-size: 1rem;
 }
 
 .messages_container {
